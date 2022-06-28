@@ -1,0 +1,1333 @@
+2022-06-28T08:40:19Z <INFO:emu.grasscutter.Grasscutter> config.json could not be found. Generating a default configuration ...
+2022-06-28T08:40:19Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-.json, falling back to: en-US.json
+2022-06-28T08:40:19Z <INFO:emu.grasscutter.utils.Utils> Creating resources folder...
+2022-06-28T08:40:19Z <INFO:emu.grasscutter.utils.Utils> Place a copy of 'BinOutput' and 'ExcelBinOutput' in the resources folder.
+2022-06-28T08:40:19Z <INFO:emu.grasscutter.utils.Utils> Place a copy of 'BinOutput' and 'ExcelBinOutput' in the resources folder.
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'TowerSchedule.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Spawns.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'SkillParticleGeneration.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ShopChestBatchUse.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ShopChest.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Shop.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GameAnnouncementList.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GameAnnouncement.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating data folder 'gacha/'
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/records.html' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/details.html' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ExpeditionReward.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'EnergyDrop.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Drop.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating data folder 'documentation/'
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'documentation/index.html' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'documentation/handbook.html' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Banners.json' data
+2022-06-28T08:40:20Z <INFO:emu.grasscutter.data.DataLoader> Creating default './data/gacha/mappings.js' data
+2022-06-28T08:40:20Z <WARN:emu.grasscutter.data.DataLoader> Failed to create gacha mappings. 
+java.lang.NullPointerException
+2022-06-28T08:56:35Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-.json, falling back to: en-US.json
+2022-06-28T08:56:35Z <INFO:emu.grasscutter.data.DataLoader> Creating default './data/gacha/mappings.js' data
+2022-06-28T08:56:35Z <INFO:emu.grasscutter.tools.Tools> Invalid option. Will use EN(English) as fallback
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T08:56:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T08:56:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T08:56:38Z <INFO:emu.grasscutter.tools.ToolsWithLanguageOption> Mappings generated to ./data/gacha/mappings.js !
+2022-06-28T08:56:38Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T08:56:38Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T08:56:38Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T08:56:38Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T08:56:39Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T08:56:39Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T08:56:39Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T08:56:39Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Exception in monitor thread while connecting to server localhost:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:70)
+	at com.mongodb.internal.connection.InternalStreamConnection.open(InternalStreamConnection.java:143)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.lookupServerDescription(DefaultServerMonitor.java:188)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:144)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at com.mongodb.internal.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:107)
+	at com.mongodb.internal.connection.SocketStream.initializeSocket(SocketStream.java:79)
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:65)
+	... 4 common frames omitted
+2022-06-28T08:56:39Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T09:00:27Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T09:00:28Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T09:00:29Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T09:00:29Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T09:00:29Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T09:00:29Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T09:00:29Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T09:00:29Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:34}] to containers-us-west-64.railway.app:5983
+2022-06-28T09:00:29Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=110203438}
+2022-06-28T09:00:29Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:33}] to containers-us-west-64.railway.app:5983
+2022-06-28T09:00:30Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:35}] to containers-us-west-64.railway.app:5983
+2022-06-28T09:00:31Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @5384ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T09:00:31Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T09:00:31Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T09:00:31Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T09:00:31Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T09:00:31Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T09:00:31Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T09:00:31Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T09:00:31Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T09:00:31Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T09:00:31Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T09:00:33Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T09:00:34Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@356341c9(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@3a70575[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T09:00:34Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@10817f46{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T09:00:34Z <INFO:org.eclipse.jetty.server.Server> Started @8118ms
+2022-06-28T09:00:34Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T09:00:34Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T09:00:34Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-06-28T09:00:34Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T09:00:34Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T09:00:39Z <INFO:emu.grasscutter.command.CommandHandler> 
+Available commands: 
+sendmessage
+   Sends a message to a player as the server
+Usage: sendmessage <message>
+Aliases: say sendservmsg sendservermessage 
+setfetterlevel
+   Sets your fetter level for your current active character
+Usage: setfetterlevel <level>
+Aliases: setfetterlvl setfriendship 
+setworldlevel
+   Sets your world level (Relog to see proper effects)
+Usage: setworldlevel <level>
+Aliases: setworldlvl 
+setstats
+   Sets fight property for your current active character
+Usage: setstats|stats <stat> <value>
+Aliases: stats 
+language
+   Display or change current language
+Usage: language [language code]
+Aliases: lang 
+giveall
+   Gives all items
+Usage: giveall [amount]
+Aliases: givea 
+quest
+   Add or finish quests
+Usage: quest <add|finish> [questId]
+unlocktower
+   Unlock all levels of tower
+Usage: unlocktower
+Aliases: ut 
+killall
+   Kill all entities
+Usage: killall [sceneId]
+talent
+   Set talent level for your current active character
+Usage: talent <talentId> <value>
+weather
+   Changes the weather
+Usage: weather <climate type(weatherId)> <weather type(climateId)>
+Aliases: w 
+give
+   Gives an item to you or the specified player
+Usage: give <itemId|itemName> [amount] [level]
+Aliases: g item giveitem 
+changescene
+   Changes your scene
+Usage: changescene <sceneId>
+Aliases: scene 
+list
+   List online players
+Usage: list [uid]
+Aliases: players 
+tpall
+   Teleports all players in your world to your position
+Usage: tpall
+stop
+   Stops the server
+Usage: stop
+position
+   Get coordinates
+Usage: position
+Aliases: pos 
+resetconst
+   Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
+Usage: resetconst [all]
+Aliases: resetconstellation 
+broadcast
+   Sends a message to all the players
+Usage: broadcast <message>
+Aliases: b 
+drop
+   Drops an item near you
+Usage: drop <itemId|itemName> [amount]
+Aliases: d dropitem 
+givechar
+   Gives the player a specified character
+Usage: givechar <avatarId> [level]
+Aliases: givec 
+teleport
+   Change the player's position
+Usage: teleport <x> <y> <z> [sceneId]
+Aliases: tp 
+giveart
+   Gives the player a specified artifact
+Usage: giveart <artifactId> <mainPropId> [<appendPropId>[,<times>]]... [level]
+Aliases: gart 
+reload
+   Reload server config
+Usage: reload
+heal
+   Heal all characters in your current team.
+Usage: heal|h
+Aliases: h 
+killcharacter
+   Kills the players current character
+Usage: killcharacter
+Aliases: suicide kill 
+sendmail
+   Sends mail to the specified user. The usage of this command changes based on its composition state
+Usage: sendmail <userId|all|help> [templateId]
+enterdungeon
+   Enter a dungeon
+Usage: enterdungeon <dungeonId>
+Aliases: dungeon 
+godmode
+   Prevents you from taking damage. Defaults to toggle.
+Usage: godmode [on|off|toggle]
+coop
+   Forces someone to join the world of others. If no one is targeted, it sends you into co-op mode anyway.
+Usage: coop [host uid]
+restart
+   Restarts the current session
+Usage: restart
+permission
+   Grants or removes a permission for a user
+Usage: permission <add|remove> <permission>
+resetshop
+   Reset target player's shop refresh time
+Usage: resetshop
+team
+   Modify your team manually.
+Usage: team <add|remove|set> [avatarId,...] [index|first|last|index-index,...]
+unlimitenergy
+   Use the element does not waste energy in unlimitenergy on
+Usage: unlimitenergy [on|off|toggle]
+Aliases: ule 
+help
+   Sends the help message or shows information about a specified command
+Usage: help [command]
+spawn
+   Spawns an entity near you
+Usage: spawn <entityId> [amount] [level(monster only)] [<x> <y> <z>(monster only, optional)]
+kick
+   Kicks the specified player from the server (WIP)
+Usage: kick
+nostamina
+   Keep your endurance to the maximum.
+Usage: nostamina [on|off|toggle]
+Aliases: ns 
+account
+   Modify user accounts
+Usage: account <create|delete> <username> [uid]
+
+2022-06-28T09:04:36Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client 162.158.170.61 request: query_region_list
+2022-06-28T09:04:40Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 162.158.170.219 is trying to log in via token.
+2022-06-28T09:04:40Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 162.158.170.219 failed to log in via token.
+2022-06-28T09:04:40Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 162.158.170.219 is trying to log in.
+2022-06-28T09:05:07Z <INFO:emu.grasscutter.command.CommandHandler> Account created with UID 1.
+2022-06-28T09:05:12Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 172.70.147.200 logged in as 10001.
+2022-06-28T09:05:12Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.147.200 is trying to log in.
+2022-06-28T09:05:13Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 172.70.147.200 succeed to exchange combo token.
+2022-06-28T09:05:13Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.147.200 is trying to log in.
+2022-06-28T09:05:17Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T09:06:03Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:06:04Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:22:46Z <INFO:emu.grasscutter.command.CommandHandler> There are 1 player(s) online:
+2022-06-28T09:22:46Z <INFO:emu.grasscutter.command.CommandHandler> ShiestaPoi
+2022-06-28T09:26:18Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:26:18Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:26:33Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T09:26:41Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:26:41Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:27:05Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:27:05Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:27:06Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:27:15Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:27:15Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:27:15Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:28:10Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:28:10Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:28:14Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T09:36:13Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T09:36:18Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:36:40Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:36:40Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:36:40Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:36:47Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:36:47Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:36:47Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:39:15Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:39:15Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:39:16Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:09Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:09Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:40:13Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T09:40:19Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:30Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:30Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:40:30Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:45Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:45Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:40:45Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:49Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:49Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:40:50Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:57Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:40:57Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:40:57Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:41:07Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:41:07Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:41:07Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:41:19Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:41:19Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:41:19Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:41:25Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:41:25Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T09:41:26Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:45:37Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client 172.70.189.28 request: query_region_list
+2022-06-28T09:45:39Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 172.70.189.112 is trying to log in via token.
+2022-06-28T09:45:39Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 172.70.189.112 failed to log in via token.
+2022-06-28T09:45:39Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.189.112 is trying to log in.
+2022-06-28T09:46:26Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 172.70.142.205 logged in as 10001.
+2022-06-28T09:46:26Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.142.205 is trying to log in.
+2022-06-28T09:46:27Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 172.70.189.112 succeed to exchange combo token.
+2022-06-28T09:46:27Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.189.112 is trying to log in.
+2022-06-28T09:46:27Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T09:46:52Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T09:51:27Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:4, serverValue:42}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:01:54Z <INFO:emu.grasscutter.command.CommandHandler> Unknown command: /enka849668633
+2022-06-28T10:01:55Z <INFO:emu.grasscutter.command.CommandHandler> Unknown command: enka
+2022-06-28T10:07:30Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-06-28T10:07:30Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:07:30Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T10:07:30Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@10817f46{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:07:30Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:07:35Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:07:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:07:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:07:37Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:07:37Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:07:37Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:07:37Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:07:37Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:44}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:07:37Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:43}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:07:37Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=114449574}
+2022-06-28T10:07:38Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:45}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:07:39Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @5160ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:07:39Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:07:39Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:07:39Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:07:39Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:07:39Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:07:39Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:07:39Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:07:39Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:07:39Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GCEnkaCopy
+2022-06-28T10:07:39Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:07:41Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:07:41Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@39a8e2fa(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@2f9addd4[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:07:41Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:07:41Z <INFO:org.eclipse.jetty.server.Server> Started @7800ms
+2022-06-28T10:07:41Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:07:41Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:07:41Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:07:41Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:07:41Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:07:53Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 172.70.143.72 is trying to log in via token.
+2022-06-28T10:07:53Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 172.70.143.72 logged in via token as 10001.
+2022-06-28T10:07:53Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.143.72 is trying to log in.
+2022-06-28T10:07:54Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 172.70.143.72 succeed to exchange combo token.
+2022-06-28T10:07:54Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.143.72 is trying to log in.
+2022-06-28T10:07:55Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T10:08:24Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:08:24Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:12:15Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:12:15Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T10:12:15Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:12:15Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:12:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:12:21Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:12:22Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:12:22Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:12:22Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:12:22Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:12:22Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:46}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:12:22Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=111422448}
+2022-06-28T10:12:22Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:47}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:12:22Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:48}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:12:23Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4741ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:12:24Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:12:24Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:12:24Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:12:24Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:12:24Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:12:24Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:12:24Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:12:24Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:12:24Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GCEnkaCopy
+2022-06-28T10:12:24Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:12:24Z <ERROR:emu.grasscutter.plugin.PluginManager> Failed to load plugin: mirai-console-jgs-plugin-0.2.0.mirai.jar
+java.lang.NullPointerException: Cannot invoke "java.net.URL.openStream()" because "configFile" is null
+	at emu.grasscutter.plugin.PluginManager.lambda$loadPlugins$2(PluginManager.java:69)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at emu.grasscutter.plugin.PluginManager.loadPlugins(PluginManager.java:64)
+	at emu.grasscutter.plugin.PluginManager.<init>(PluginManager.java:30)
+	at emu.grasscutter.Grasscutter.main(Grasscutter.java:127)
+2022-06-28T10:12:25Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:12:26Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@a047bdb(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@14dbfdb1[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:12:26Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:12:26Z <INFO:org.eclipse.jetty.server.Server> Started @7386ms
+2022-06-28T10:12:26Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:12:26Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:12:26Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:12:26Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:12:26Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:14:58Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 172.70.143.30 is trying to log in via token.
+2022-06-28T10:14:58Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 172.70.143.30 logged in via token as 10001.
+2022-06-28T10:14:58Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.143.30 is trying to log in.
+2022-06-28T10:14:58Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 172.70.143.30 succeed to exchange combo token.
+2022-06-28T10:14:58Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.143.30 is trying to log in.
+2022-06-28T10:14:59Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T10:15:05Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:15:05Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:15:05Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:15:07Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:15:07Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:15:07Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:15:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:15:09Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:15:09Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:15:09Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:15:09Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:49}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:15:09Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:50}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:15:09Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=109198762}
+2022-06-28T10:15:10Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:51}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:15:11Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4878ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:15:11Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:15:11Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:15:11Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:15:11Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:15:11Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:15:11Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:15:11Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:15:11Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:15:11Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GCEnkaCopy
+2022-06-28T10:15:11Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:15:11Z <ERROR:emu.grasscutter.plugin.PluginManager> Failed to load plugin: mirai-console-jgs-plugin-0.2.0.mirai.jar
+java.lang.NullPointerException: Cannot invoke "java.net.URL.openStream()" because "configFile" is null
+	at emu.grasscutter.plugin.PluginManager.lambda$loadPlugins$2(PluginManager.java:69)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at emu.grasscutter.plugin.PluginManager.loadPlugins(PluginManager.java:64)
+	at emu.grasscutter.plugin.PluginManager.<init>(PluginManager.java:30)
+	at emu.grasscutter.Grasscutter.main(Grasscutter.java:127)
+2022-06-28T10:15:13Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:15:13Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@a047bdb(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@14dbfdb1[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:15:13Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:15:13Z <INFO:org.eclipse.jetty.server.Server> Started @7453ms
+2022-06-28T10:15:13Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:15:13Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:15:13Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:15:13Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:15:13Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:15:14Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:15:15Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:16:15Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T10:16:15Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:16:15Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:16:15Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:16:38Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:16:38Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:16:38Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:16:38Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:16:39Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:16:40Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:16:40Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:16:40Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:16:40Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:53}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:16:40Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=107325560}
+2022-06-28T10:16:40Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:52}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:16:41Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:54}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:16:42Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4896ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:16:42Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:16:42Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:16:42Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:16:42Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:16:42Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:16:42Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:16:42Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:16:42Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:16:42Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GCEnkaCopy
+2022-06-28T10:16:42Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:16:44Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:16:44Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@7b79ff1c(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@527d48db[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:16:44Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:16:44Z <INFO:org.eclipse.jetty.server.Server> Started @7290ms
+2022-06-28T10:16:44Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:16:44Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:16:44Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:16:44Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:16:44Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:17:08Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:17:08Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:17:08Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:17:16Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:17:16Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:17:16Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:17:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:17:18Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:17:18Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:17:18Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:17:18Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:56}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:17:18Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=105681523}
+2022-06-28T10:17:18Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:55}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:17:19Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:57}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:17:20Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4941ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:17:20Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:17:20Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:17:20Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:17:20Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:17:20Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:17:20Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:17:20Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:17:20Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:17:20Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GCEnkaCopy
+2022-06-28T10:17:20Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:17:22Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:17:22Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@7b79ff1c(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@527d48db[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:17:22Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:17:22Z <INFO:org.eclipse.jetty.server.Server> Started @7251ms
+2022-06-28T10:17:22Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:17:22Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:17:22Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:17:22Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:17:22Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:17:42Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:17:42Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:17:42Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:18:03Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:18:04Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:18:05Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:18:05Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:18:05Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:18:06Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:58}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:18:06Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=112078468}
+2022-06-28T10:18:06Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:59}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:18:06Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:60}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:18:07Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @5209ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:18:07Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:18:07Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:18:07Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:18:07Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:18:07Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:18:07Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:18:07Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:18:07Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:18:07Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:18:07Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:18:09Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:18:09Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@2c668c2a(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@6efd0a6e[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:18:09Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:18:09Z <INFO:org.eclipse.jetty.server.Server> Started @7568ms
+2022-06-28T10:18:09Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:18:09Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:18:09Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:18:10Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:18:10Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:18:25Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:18:25Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:18:25Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:27:55Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:27:55Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:27:55Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:27:56Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:27:57Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:27:57Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:27:57Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:27:58Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:61}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:27:58Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:62}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:27:58Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=106943353}
+2022-06-28T10:27:58Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:63}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:27:59Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4866ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:27:59Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:27:59Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:27:59Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:27:59Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:27:59Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:27:59Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:27:59Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:27:59Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:27:59Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:27:59Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:27:59Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:27:59Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:27:59Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:27:59Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:28:00Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:28:00Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:28:00Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GCEnkaCopy
+2022-06-28T10:28:01Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:28:01Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@503a7990(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@69a90b81[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:28:01Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@10817f46{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:28:01Z <INFO:org.eclipse.jetty.server.Server> Started @7273ms
+2022-06-28T10:28:01Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:28:01Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:28:02Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: GCEnkaCopy
+2022-06-28T10:28:02Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-06-28T10:28:02Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:28:02Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:28:22Z <INFO:emu.grasscutter.command.CommandHandler> This command requires a target UID. Add a <@UID> argument or set a persistent target with /target @UID.
+2022-06-28T10:28:32Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 162.158.170.217 is trying to log in via token.
+2022-06-28T10:28:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 162.158.170.217 logged in via token as 10001.
+2022-06-28T10:28:33Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 162.158.170.217 is trying to log in.
+2022-06-28T10:28:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 162.158.170.217 succeed to exchange combo token.
+2022-06-28T10:28:33Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 162.158.170.217 is trying to log in.
+2022-06-28T10:28:34Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T10:28:48Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:28:48Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:30:36Z <INFO:emu.grasscutter.command.CommandHandler> Unknown command: /enka
+2022-06-28T10:30:38Z <INFO:emu.grasscutter.command.CommandHandler> This command requires a target UID. Add a <@UID> argument or set a persistent target with /target @UID.
+2022-06-28T10:31:04Z <INFO:emu.grasscutter.command.CommandHandler> Giving characters, artifacts, and weapons...
+2022-06-28T10:31:04Z <INFO:emu.grasscutter.command.CommandHandler> Error while loading data! Make sure your uid/name is correct and your profile is public.
+2022-06-28T10:31:17Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-06-28T10:31:17Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:31:17Z <INFO:emu.grasscutter.plugin.PluginManager> Disabling plugin: GCEnkaCopy
+2022-06-28T10:31:17Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from 180.254.174.79
+2022-06-28T10:31:17Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@10817f46{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:31:17Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:39:31Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:39:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:39:33Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:39:33Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:39:33Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:39:34Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:65}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:39:34Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:64}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:39:34Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=111310656}
+2022-06-28T10:39:34Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:66}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:39:35Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4984ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:39:35Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:39:35Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:39:35Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:39:35Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:39:35Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:39:36Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:39:36Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:39:36Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:39:36Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:39:36Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:39:36Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:39:36Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:39:36Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:39:36Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:39:36Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:39:36Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:39:36Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: opencommand-plugin
+2022-06-28T10:39:37Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:39:37Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@2976ca51(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@6b091a92[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:39:37Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:39:37Z <INFO:org.eclipse.jetty.server.Server> Started @7223ms
+2022-06-28T10:39:37Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:39:37Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:39:37Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: opencommand-plugin
+2022-06-28T10:39:37Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:39:37Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:40:01Z <INFO:io.javalin.Javalin> Stopping Javalin ...
+2022-06-28T10:40:01Z <INFO:org.eclipse.jetty.server.AbstractConnector> Stopped ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:40:01Z <INFO:io.javalin.Javalin> Javalin has stopped
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.7.0
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.0-e5dd407a
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4246 FetterDatas.
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 411 AvatarSkillDatas.
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 FetterCharacterCardDatas.
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 312 AvatarTalentDatas.
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 668 RewardPreviewDatas.
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 168 MonsterDescribeDatas.
+2022-06-28T10:40:18Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 75 AvatarSkillDepotDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 2516 ProudSkillDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 297 CombineDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 200 MonsterCurveDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 497 CodexMaterialDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 350 AvatarPromoteDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 42 ReliquarySetDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 11420 QuestDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 49 TowerScheduleDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 734 SceneDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 3093 NpcDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 9 AvatarFlycloakDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 335 ReliquaryAffixDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6868 GadgetDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 749 EquipAffixDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 101 ReliquaryLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 8 WorldLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 60 PlayerLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 123 TowerLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 59 AvatarCostumeDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 WeaponCurveDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1230 ShopGoodsDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 66 ReliquaryMainPropDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 208 CodexQuestDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 814 DungeonDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 4182 RewardDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 100 AvatarCurveDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 AvatarLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 41 TowerFloorDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 24 DailyDungeonDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 137 CodexWeaponDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 953 WeaponPromoteDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 6943 ItemDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 10 AvatarFetterLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 233 CodexAnimalDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 90 WeaponLevelDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 81 CodexReliquaryDatas.
+2022-06-28T10:40:19Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 39 EnvAnimalGatherConfigDatas.
+2022-06-28T10:40:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 569 MonsterDatas.
+2022-06-28T10:40:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 80 AvatarDatas.
+2022-06-28T10:40:20Z <INFO:emu.grasscutter.data.ResourceLoader> Loaded 1508 MainQuestDatas.
+2022-06-28T10:40:20Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Energy drop data successfully loaded.
+2022-06-28T10:40:20Z <INFO:emu.grasscutter.game.managers.EnergyManager.EnergyManager> Skill particle generation data successfully loaded.
+2022-06-28T10:40:20Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster created with settings {hosts=[containers-us-west-64.railway.app:5983], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-06-28T10:40:20Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Cluster description not yet available. Waiting for 30000 ms before timing out
+2022-06-28T10:40:20Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:1, serverValue:68}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:40:20Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Monitor thread successfully connected to server with description ServerDescription{address=containers-us-west-64.railway.app:5983, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=112543675}
+2022-06-28T10:40:20Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:2, serverValue:67}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:40:21Z <INFO:com.mongodb.diagnostics.logging.SLF4JLogger> Opened connection [connectionId{localValue:3, serverValue:69}] to containers-us-west-64.railway.app:5983
+2022-06-28T10:40:22Z <INFO:org.eclipse.jetty.util.log.Log> Logging initialized @4856ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.server.game.GameServerPacketHandler> Registered 127 PacketHandlers
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.game.gacha.GachaManager> Banners successfully loaded.
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.game.shop.ShopManager> Shop data successfully loaded.
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChest data successfully loaded.
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.game.shop.ShopManager> ShopChestBatchUse data successfully loaded.
+2022-06-28T10:40:22Z <INFO:org.quartz.impl.StdSchedulerFactory> Using default implementation for ThreadExecutor
+2022-06-28T10:40:22Z <INFO:org.quartz.simpl.SimpleThreadPool> Job execution threads will use class loader of thread: main
+2022-06-28T10:40:22Z <INFO:org.quartz.core.SchedulerSignalerImpl> Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-06-28T10:40:22Z <INFO:org.quartz.core.QuartzScheduler> Quartz Scheduler v.2.3.2 created.
+2022-06-28T10:40:22Z <INFO:org.quartz.simpl.RAMJobStore> RAMJobStore initialized.
+2022-06-28T10:40:22Z <INFO:org.quartz.core.QuartzScheduler> Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-06-28T10:40:22Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2022-06-28T10:40:22Z <INFO:org.quartz.impl.StdSchedulerFactory> Quartz scheduler version: 2.3.2
+2022-06-28T10:40:22Z <INFO:org.quartz.core.QuartzScheduler> Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.game.drop.DropManager> Drop data successfully loaded.
+2022-06-28T10:40:22Z <INFO:emu.grasscutter.game.expedition.ExpeditionManager> Expedition reward successfully loaded.
+2022-06-28T10:40:24Z <INFO:org.eclipse.jetty.server.Server> jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 17.0.3+7-Ubuntu-0ubuntu0.22.04.1
+2022-06-28T10:40:24Z <INFO:org.eclipse.jetty.util.ssl.SslContextFactory> x509=X509@15be68b(keystore_entry,h=[mydomain.com, localhost],w=[]) for Server@22ff1372[provider=null,keyStore=file:///home/swenson/genshin/keystore.p12,trustStore=null]
+2022-06-28T10:40:24Z <INFO:org.eclipse.jetty.server.AbstractConnector> Started ServerConnector@124eb83d{SSL, (ssl, http/1.1)}{0.0.0.0:443}
+2022-06-28T10:40:24Z <INFO:org.eclipse.jetty.server.Server> Started @7306ms
+2022-06-28T10:40:24Z <INFO:express.Express> Server listening on http://0.0.0.0:443
+2022-06-28T10:40:24Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-06-28T10:40:24Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-06-28T10:40:24Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-06-28T10:40:24Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-06-28T10:40:30Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 172.70.142.205 logged in as 10001.
+2022-06-28T10:40:31Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.142.205 is trying to log in.
+2022-06-28T10:40:31Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 172.70.142.205 succeed to exchange combo token.
+2022-06-28T10:40:31Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 172.70.142.205 is trying to log in.
+2022-06-28T10:40:32Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 180.254.174.79 request: query_cur_region/os_usa
+2022-06-28T10:40:44Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79
+2022-06-28T10:40:44Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from 180.254.174.79

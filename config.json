@@ -1,0 +1,156 @@
+{
+  "folderStructure": {
+    "resources": "./resources/",
+    "data": "./data/",
+    "packets": "./packets/",
+    "scripts": "./resources/Scripts/",
+    "plugins": "./plugins/"
+  },
+  "databaseInfo": {
+    "server": {
+      "connectionUri": "mongodb://mongo:7qp2U9R0gLWXg5Ycpo9U@containers-us-west-64.railway.app:5983",
+      "collection": "grasscutter"
+    },
+    "game": {
+      "connectionUri": "mongodb://mongo:7qp2U9R0gLWXg5Ycpo9U@containers-us-west-64.railway.app:5983",
+      "collection": "grasscutter"
+    }
+  },
+  "language": {
+    "language": "en_US",
+    "fallback": "en_US",
+    "document": "EN"
+  },
+  "account": {
+    "autoCreate": false,
+    "defaultPermissions": [],
+    "maxPlayer": -1
+  },
+  "server": {
+    "debugLevel": "NONE",
+    "runMode": "HYBRID",
+    "http": {
+      "bindAddress": "0.0.0.0",
+      "accessAddress": "20.46.120.148",
+      "bindPort": 443,
+      "accessPort": 0,
+      "encryption": {
+        "useEncryption": true,
+        "useInRouting": true,
+        "keystore": "./keystore.p12",
+        "keystorePassword": "123456"
+      },
+      "policies": {
+        "cors": {
+          "enabled": true,
+          "allowedOrigins": [
+            "*"
+          ]
+        }
+      },
+      "files": {
+        "indexFile": "./index.html",
+        "errorFile": "./404.html"
+      }
+    },
+    "game": {
+      "bindAddress": "0.0.0.0",
+      "accessAddress": "20.46.120.148",
+      "bindPort": 22102,
+      "accessPort": 0,
+      "enableConsole": true,
+      "gameOptions": {
+        "inventoryLimits": {
+          "weapons": 2000,
+          "relics": 2000,
+          "materials": 2000,
+          "furniture": 2000,
+          "all": 30000
+        },
+        "avatarLimits": {
+          "singlePlayerTeam": 6,
+          "multiplayerTeam": 50
+        },
+        "sceneEntityLimit": 1000,
+        "watchGachaConfig": false,
+        "enableShopItems": true,
+        "staminaUsage": true,
+        "energyUsage": false,
+        "rates": {
+          "adventureExp": 10.0,
+          "mora": 2.0,
+          "leyLines": 1.0
+        }
+      },
+      "joinOptions": {
+        "welcomeEmotes": [
+          8001,
+          8002,
+          8003,
+          8004,
+          14005,
+          14006,
+          14007,
+          14008
+        ],
+        "welcomeMessage": "Welcome to Roother-PS\n\nUse !help for help\n\nRegion: localhost\nWebsite: swenson.my.id",
+        "welcomeMail": {
+          "title": "Welcome to Roother-PS",
+          "content": "Hi, Thank you for registering on Roother Server, as a sign of gratitude for you we give gifts, you can also get more gifts with /give all on console, please visit us for help and type !help for more info.<type=\"browser\" text=\"Website\" href=\"https://swenson.my.id\"/>",
+          "sender": "Heathcliff",
+          "items": [
+            {
+              "itemId": 223,
+              "itemCount": 1000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 224,
+              "itemCount": 1000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 202,
+              "itemCount": 6000000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 201,
+              "itemCount": 60000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 203,
+              "itemCount": 10000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 204,
+              "itemCount": 1000000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 303,
+              "itemCount": 1000,
+              "itemLevel": 1
+            }
+          ]
+        }
+      },
+      "serverAccount": {
+        "avatarId": 10000002,
+        "nameCardId": 210081,
+        "adventureRank": 60,
+        "worldLevel": 8,
+        "nickName": "Heathcliff",
+        "signature": "Console Roother Private Server (localhost)"
+      }
+    },
+    "dispatch": {
+      "regions": [],
+      "defaultName": "Roother"
+    }
+  },
+  "version": 3
+}
+
